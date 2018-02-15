@@ -58,7 +58,7 @@ $(window).on('load', function () {
   setTimeout(function () {
     window.clearInterval(id)
     $('.peru').text('Okoye Chidi Bartholomew')
-    $('.seira-vela').text(' Junior Front-End Developer, Project Manager & Researcher')
+    $('.seira-vela').text('Front-End Developer, Project Manager & Researcher')
     $('body').css('overflow', 'auto')
     $('.rendu').css('display', 'block')
     $('.down').css('opacity', 1)
