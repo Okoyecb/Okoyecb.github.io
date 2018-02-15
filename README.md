@@ -1,4 +1,4 @@
-## Okoye Chidi Bartholomew -Junior Front-End Developer | Researcher
+## Okoye Chidi Bartholomew -Front-End Developer | Researcher
 ### License
 Copyright 2017 Pranesh Ravi
 
