@@ -10,13 +10,8 @@ var colorArray = [
   '#9ed1c7',
   '#53354A',
   '#696f75',
-  '#90D26D',
   '#dadaee',
   '#766f63',
-  '#9191ea',
-  '#0000CD',
-  '#7FFFD4',
-  '#FFFFFF',
 ]
 
 function setBannerViewPort() {
@@ -58,7 +53,7 @@ $(window).on('load', function () {
   setTimeout(function () {
     window.clearInterval(id)
     $('.peru').text('Okoye Chidi Bartholomew')
-    $('.seira-vela').text('Front-End Developer')
+    $('.seira-vela').text('Product / Program Manager')
     $('body').css('overflow', 'auto')
     $('.rendu').css('display', 'block')
     $('.down').css('opacity', 1)
